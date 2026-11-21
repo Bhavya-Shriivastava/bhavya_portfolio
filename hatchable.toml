@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Bhavya Shrivastava — GTM Portfolio"
+description = "A premium personal portfolio for Bhavya Shrivastava, showcasing go-to-market, business development, campaign leadership, and technical experience with direct contact links."
